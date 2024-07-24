@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../practica _7"
+		},
+		{
+			"path": "../../Copia de practica_4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aplicacionesweb"
+	}
+}

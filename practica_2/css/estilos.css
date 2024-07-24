@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 2px dotted black;
+    padding: 10px 10px 10px 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+nav ul {
+    list-style-type: none;
+    padding: 10px 10px 10px 10px;
+    background-color: burlywood;
+}
+nav li {
+    display: inline;
+    padding: 10px 10px 10px 10px;
+}
+.menu-item{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+.item-details{
+    flex: 1;
+}
+
+.item-details h2{
+    margin-top: 0;
+}
+.item-details p{
+    margin-bottom: 10px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    margin-left: 20px;
+    border-radius: 10px;
+    order: 2;
+}
